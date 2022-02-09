@@ -13,6 +13,7 @@ provider "linode" {
 }
 
 resource "linode_instance" "hack" {
+  label = "hacking1"
   image = "linode/centos7"
   region = "ap-west"
   type = "g6-nanode-1"
