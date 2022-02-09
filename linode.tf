@@ -8,7 +8,7 @@ terraform{
 
 
 provider "linode" {
-  token = "d753402ad198590cbdf408fad76a6edb57a739bc92cd8aaa9761079f0181eb8b"
+  token = "3c625290580fbc9268403e1cde586bf43076c08cad1fceeb6dbdcda9ee0dd01a"
   
 }
 
